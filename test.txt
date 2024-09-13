@@ -1,2 +1,3 @@
 /an/count/*vsid=*&ad-pod-id=*
 /poll/video/*from_direct=*&_theme_=video*
+https://yandex.ru/an/count/*
